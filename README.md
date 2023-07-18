@@ -1,5 +1,3 @@
-🎮 Estudante de Jogos Digitais | 👩‍🏫 Professora de Programação para Crianças | 🌐 Desenvolvedora Web em Progresso
-
 👋 Olá, eu sou Erika Mendes!
 
 📚 Atualmente, estou cursando Jogos Digitais e me apaixonando cada vez mais pelo fascinante mundo da criação de jogos. A combinação perfeita entre arte, design e programação é o que me motiva a explorar novas possibilidades e mergulhar em desafios criativos.
