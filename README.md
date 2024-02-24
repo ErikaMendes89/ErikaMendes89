@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#05676e&height=120&section=header"/>
+
 👋 Olá, eu sou Erika Mendes!
 
 📚 Atualmente, estou cursando Jogos Digitais e me apaixonando cada vez mais pelo fascinante mundo da criação de jogos. A combinação perfeita entre arte, design e programação é o que me motiva a explorar novas possibilidades e mergulhar em desafios criativos.
@@ -11,3 +13,39 @@
 📫 Você pode me encontrar aqui no GitHub, onde estou compartilhando meus projetos e colaborando com a comunidade. Juntos, podemos criar algo incrível!
 
 Happy coding! 😄🎉
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erika-mendes-3b798a64/)
+
+##
+
+
+<div align="center"> 
+<img src="https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif" width="600" height="300" frameBorder="0" />
+</div>
+
+
+  <div align="left">
+   <h3>Linguagens de Programação:</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  </div>
+  <div align="left">
+  <h3>Estudando:</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+
+##
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ErikaMendes89&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Erika Mendes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaMendes89&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
