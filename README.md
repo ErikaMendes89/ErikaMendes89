@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#05676e&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3F9E05&height=110&section=header"/>
 
 👋 Olá, eu sou Erika Mendes!
 
@@ -16,12 +16,15 @@ Happy coding! 😄🎉
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erika-mendes-3b798a64/)
 
+
 ##
 
 
 <div align="center"> 
-<img src="https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif" width="600" height="300" frameBorder="0" />
-</div>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW43eGpibW9jbjVkbGQ3anI3MHRtbGx5dHN5YzM4eDJtaXFlZG1ldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif" width="900" height="200" frameBorder="0" />
+<br>
+  
+## 
 
 
   <div align="left">
@@ -44,8 +47,11 @@ Happy coding! 😄🎉
 
 
 ##
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjAwajQ2YW9manB3ZjV4aTkxOWE3d2U5a2N2ajlsY205eWpyZm96cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmlzLXoKaQN9LDnShc/giphy.gif" width="900" height="300" frameBorder="0" />
+<br>
+
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ErikaMendes89&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Erika Mendes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaMendes89&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ErikaMendes89&show_icons=true&count_private=true&hide_border=true&title_color=3F9E05&icon_color=3F9E05&text_color=c9d1d9&bg_color=0d1117" alt="Erika Mendes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaMendes89&layout=compact&hide_border=true&title_color=3F9E05&text_color=3F9E05&bg_color=0d1117" />
 </div>
