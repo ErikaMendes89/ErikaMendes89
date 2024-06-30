@@ -43,7 +43,13 @@ Happy coding! 😄🎉
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+</div> 
+  <div align="left">
+  <h3>Projetos:</h3>
+  <a href ="https://github.com/ErikaMendes89/projeto-Website-hospedagem"> Projeto Website Hospedagem </a><br>
+  <a href ="https://github.com/ErikaMendes89/jogo-simples-da-memoria/blob/main/README.md"> Jogo da Memória simples </a><br>
+  <a href="https://github.com/ErikaMendes89/Projeto-cafeteria/blob/main/README.md"> Projeto site cafeteria </a>
+  </div>
 
 
 ##
