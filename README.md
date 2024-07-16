@@ -49,7 +49,7 @@ Happy coding! 😄🎉
   <a href ="https://github.com/ErikaMendes89/projeto-Website-hospedagem"> Projeto Website Hospedagem </a><br>
   <a href ="https://github.com/ErikaMendes89/jogo-simples-da-memoria/blob/main/README.md"> Jogo da Memória simples </a><br>
   <a href="https://github.com/ErikaMendes89/Projeto-cafeteria/blob/main/README.md"> Projeto site cafeteria </a><br>
-  <a href="https://github.com/ErikaMendes89/projeto-recomendacao-de-filmes/tree/main"> Projeto recomendação de filme usando python </a>
+  <a href="https://github.com/ErikaMendes89/projeto-recomendacao-de-filmes/tree/main"> Projeto recomendação de filme usando python </a><br>
   <a href="https://github.com/ErikaMendes89/jogo-Ghost-Runner/tree/master"> Jogo Ghost Runner </a>
   </div>
 
