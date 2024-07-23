@@ -51,6 +51,7 @@ Happy coding! 😄🎉
   <a href="https://github.com/ErikaMendes89/Projeto-cafeteria/blob/main/README.md"> Projeto site cafeteria </a><br>
   <a href="https://github.com/ErikaMendes89/projeto-recomendacao-de-filmes/tree/main"> Projeto recomendação de filme usando python </a><br>
   <a href="https://github.com/ErikaMendes89/jogo-Ghost-Runner/tree/master"> Jogo Ghost Runner </a>
+  <a href = "https://github.com/ErikaMendes89/reconhecimento-de-imagens/tree/main"> Identificador de imagens </a>
   </div>
 
 
