@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3F9E05&height=110&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fdcae1&height=110&section=header"/>
 
 👋 Olá, eu sou Erika Mendes!
 
