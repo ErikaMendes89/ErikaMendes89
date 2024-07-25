@@ -15,14 +15,8 @@
 Happy coding! 😄🎉
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erika-mendes-3b798a64/)
-
-
-##
-
-
-<div align="center"> 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW43eGpibW9jbjVkbGQ3anI3MHRtbGx5dHN5YzM4eDJtaXFlZG1ldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif" width="900" height="200" frameBorder="0" />
-<br>
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@mendescoder89)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mendescoder89)
   
 ## 
 
@@ -40,18 +34,24 @@ Happy coding! 😄🎉
   </div>
   <div align="left">
   <h3>Estudando:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div> 
   <div align="left">
   <h3>Projetos:</h3>
-  <a href ="https://github.com/ErikaMendes89/projeto-Website-hospedagem"> Projeto Website Hospedagem </a><br>
-  <a href ="https://github.com/ErikaMendes89/jogo-simples-da-memoria/blob/main/README.md"> Jogo da Memória simples </a><br>
-  <a href="https://github.com/ErikaMendes89/Projeto-cafeteria/blob/main/README.md"> Projeto site cafeteria </a><br>
-  <a href="https://github.com/ErikaMendes89/projeto-recomendacao-de-filmes/tree/main"> Projeto recomendação de filme usando python </a><br>
-  <a href="https://github.com/ErikaMendes89/jogo-Ghost-Runner/tree/master"> Jogo Ghost Runner </a>
-  <a href = "https://github.com/ErikaMendes89/reconhecimento-de-imagens/tree/main"> Identificador de imagens </a>
+  <a href ="https://github.com/ErikaMendes89/projeto-Website-hospedagem"> Projeto Website Hospedagem </a><br><br>
+  <img src="https://github.com/ErikaMendes89/projeto-meu-portfolio-atualizado/blob/main/Projeto-portifolio/imagens/site-de-hospedagem.gif.gif" height= 300px width=500px> <br>
+  <a href ="https://github.com/ErikaMendes89/jogo-simples-da-memoria/blob/main/README.md"> Jogo da Memória simples </a><br><br>
+  <img src= "https://github.com/ErikaMendes89/projeto-meu-portfolio-atualizado/blob/main/Projeto-portifolio/imagens/jogo-da-memoria-gif.gif" height=300px width=500px><br>
+  <a href="https://github.com/ErikaMendes89/Projeto-cafeteria/blob/main/README.md"> Projeto site cafeteria </a><br><br>
+  <img src= "https://github.com/ErikaMendes89/projeto-meu-portfolio-atualizado/blob/main/Projeto-portifolio/imagens/projeto-cafeteria.gif.gif" height=300px width=500px><br>
+  <a href="https://github.com/ErikaMendes89/projeto-recomendacao-de-filmes/tree/main"> Projeto recomendação de filme usando python </a><br><br>
+  <img src="https://github.com/ErikaMendes89/projeto-recomendacao-de-filmes/blob/main/Captura%20de%20tela%202024-06-26%20233152.png" height=300px width=500px><br>
+  <a href="https://github.com/ErikaMendes89/jogo-Ghost-Runner/tree/master"> Jogo Ghost Runner </a><br><br>
+  <img src ="https://github.com/ErikaMendes89/jogo-Ghost-Runner/blob/master/Anima%C3%A7%C3%A3o%20(0).gif" height=300px width=500px><br>
+  <a href = "https://github.com/ErikaMendes89/reconhecimento-de-imagens/tree/main"> Identificador de imagens </a><br><br>
+  <img src="https://github.com/ErikaMendes89/reconhecimento-de-imagens/blob/main/Captura%20de%20tela%202024-07-22%20230900.png"  height=300px width=500px><br>
   </div>
 
 
