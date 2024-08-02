@@ -100,7 +100,10 @@ Happy coding! 😄🎉
 
 
 ##
+<br>
+<div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjAwajQ2YW9manB3ZjV4aTkxOWE3d2U5a2N2ajlsY205eWpyZm96cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmlzLXoKaQN9LDnShc/giphy.gif" width="900" height="300" frameBorder="0" />
+</div>
 <br>
 
 
