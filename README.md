@@ -66,31 +66,31 @@ Happy coding! 😄🎉
   <tr>
     <td>
       <a href ="https://github.com/ErikaMendes89/projeto-Website-hospedagem">Projeto Website Hospedagem</a><br>
-      <img src="https://github.com/ErikaMendes89/projeto-meu-portfolio-atualizado/blob/main/Projeto-portifolio/imagens/site-de-hospedagem.gif.gif" height=300 width=500><br>
+      <img src="https://github.com/ErikaMendes89/projeto-meu-portfolio-atualizado/blob/main/Projeto-portifolio/imagens/site-de-hospedagem.gif.gif" height=300 width=400><br>
     </td>
     <td>
       <a href ="https://github.com/ErikaMendes89/jogo-simples-da-memoria/blob/main/README.md">Jogo da Memória simples</a><br>
-      <img src="https://github.com/ErikaMendes89/projeto-meu-portfolio-atualizado/blob/main/Projeto-portifolio/imagens/jogo-da-memoria-gif.gif" height=300 width=500><br>
+      <img src="https://github.com/ErikaMendes89/projeto-meu-portfolio-atualizado/blob/main/Projeto-portifolio/imagens/jogo-da-memoria-gif.gif" height=300 width=400><br>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/ErikaMendes89/Projeto-cafeteria/blob/main/README.md">Projeto site cafeteria</a><br>
-      <img src="https://github.com/ErikaMendes89/projeto-meu-portfolio-atualizado/blob/main/Projeto-portifolio/imagens/projeto-cafeteria.gif.gif" height=300 width=500><br>
+      <img src="https://github.com/ErikaMendes89/projeto-meu-portfolio-atualizado/blob/main/Projeto-portifolio/imagens/projeto-cafeteria.gif.gif" height=300 width=400><br>
     </td>
     <td>
       <a href="https://github.com/ErikaMendes89/projeto-recomendacao-de-filmes/tree/main">Projeto recomendação de filme usando python</a><br>
-      <img src="https://github.com/ErikaMendes89/projeto-recomendacao-de-filmes/blob/main/Captura%20de%20tela%202024-06-26%20233152.png" height=300 width=500><br>
+      <img src="https://github.com/ErikaMendes89/projeto-recomendacao-de-filmes/blob/main/Captura%20de%20tela%202024-06-26%20233152.png" height=300 width=400><br>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/ErikaMendes89/jogo-Ghost-Runner/tree/master">Jogo Ghost Runner</a><br>
-      <img src="https://github.com/ErikaMendes89/jogo-Ghost-Runner/blob/master/Anima%C3%A7%C3%A3o%20(0).gif" height=300 width=500><br>
+      <img src="https://github.com/ErikaMendes89/jogo-Ghost-Runner/blob/master/Anima%C3%A7%C3%A3o%20(0).gif" height=300 width=400><br>
     </td>
     <td>
       <a href="https://github.com/ErikaMendes89/reconhecimento-de-imagens/tree/main">Identificador de imagens</a><br>
-      <img src="https://github.com/ErikaMendes89/reconhecimento-de-imagens/blob/main/Captura%20de%20tela%202024-07-22%20230900.png" height=300 width=500><br>
+      <img src="https://github.com/ErikaMendes89/reconhecimento-de-imagens/blob/main/Captura%20de%20tela%202024-07-22%20230900.png" height=300 width=400><br>
     </td>
   </tr>
 </table>
