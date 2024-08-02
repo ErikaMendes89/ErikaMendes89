@@ -29,30 +29,74 @@ Happy coding! 😄🎉
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/p5js/p5js-original.svg" height="30" alt="p5js logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo"  />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   </div>
   <div align="left">
   <h3>Estudando:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
 </div> 
-  <div align="left">
-  <h3>Projetos:</h3>
-  <a href ="https://github.com/ErikaMendes89/projeto-Website-hospedagem"> Projeto Website Hospedagem </a><br><br>
-  <img src="https://github.com/ErikaMendes89/projeto-meu-portfolio-atualizado/blob/main/Projeto-portifolio/imagens/site-de-hospedagem.gif.gif" height= 300px width=500px> <br>
-  <a href ="https://github.com/ErikaMendes89/jogo-simples-da-memoria/blob/main/README.md"> Jogo da Memória simples </a><br><br>
-  <img src= "https://github.com/ErikaMendes89/projeto-meu-portfolio-atualizado/blob/main/Projeto-portifolio/imagens/jogo-da-memoria-gif.gif" height=300px width=500px><br>
-  <a href="https://github.com/ErikaMendes89/Projeto-cafeteria/blob/main/README.md"> Projeto site cafeteria </a><br><br>
-  <img src= "https://github.com/ErikaMendes89/projeto-meu-portfolio-atualizado/blob/main/Projeto-portifolio/imagens/projeto-cafeteria.gif.gif" height=300px width=500px><br>
-  <a href="https://github.com/ErikaMendes89/projeto-recomendacao-de-filmes/tree/main"> Projeto recomendação de filme usando python </a><br><br>
-  <img src="https://github.com/ErikaMendes89/projeto-recomendacao-de-filmes/blob/main/Captura%20de%20tela%202024-06-26%20233152.png" height=300px width=500px><br>
-  <a href="https://github.com/ErikaMendes89/jogo-Ghost-Runner/tree/master"> Jogo Ghost Runner </a><br><br>
-  <img src ="https://github.com/ErikaMendes89/jogo-Ghost-Runner/blob/master/Anima%C3%A7%C3%A3o%20(0).gif" height=300px width=500px><br>
-  <a href = "https://github.com/ErikaMendes89/reconhecimento-de-imagens/tree/main"> Identificador de imagens </a><br><br>
-  <img src="https://github.com/ErikaMendes89/reconhecimento-de-imagens/blob/main/Captura%20de%20tela%202024-07-22%20230900.png"  height=300px width=500px><br>
-  </div>
+
+## 
+
+<h3>Alguns projetos que encontrará por aqui:</h3>
+<table>
+  <tr>
+    <td>
+      <a href ="https://github.com/ErikaMendes89/projeto-Website-hospedagem">Projeto Website Hospedagem</a><br>
+      <img src="https://github.com/ErikaMendes89/projeto-meu-portfolio-atualizado/blob/main/Projeto-portifolio/imagens/site-de-hospedagem.gif.gif" height=300 width=500><br>
+    </td>
+    <td>
+      <a href ="https://github.com/ErikaMendes89/jogo-simples-da-memoria/blob/main/README.md">Jogo da Memória simples</a><br>
+      <img src="https://github.com/ErikaMendes89/projeto-meu-portfolio-atualizado/blob/main/Projeto-portifolio/imagens/jogo-da-memoria-gif.gif" height=300 width=500><br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ErikaMendes89/Projeto-cafeteria/blob/main/README.md">Projeto site cafeteria</a><br>
+      <img src="https://github.com/ErikaMendes89/projeto-meu-portfolio-atualizado/blob/main/Projeto-portifolio/imagens/projeto-cafeteria.gif.gif" height=300 width=500><br>
+    </td>
+    <td>
+      <a href="https://github.com/ErikaMendes89/projeto-recomendacao-de-filmes/tree/main">Projeto recomendação de filme usando python</a><br>
+      <img src="https://github.com/ErikaMendes89/projeto-recomendacao-de-filmes/blob/main/Captura%20de%20tela%202024-06-26%20233152.png" height=300 width=500><br>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ErikaMendes89/jogo-Ghost-Runner/tree/master">Jogo Ghost Runner</a><br>
+      <img src="https://github.com/ErikaMendes89/jogo-Ghost-Runner/blob/master/Anima%C3%A7%C3%A3o%20(0).gif" height=300 width=500><br>
+    </td>
+    <td>
+      <a href="https://github.com/ErikaMendes89/reconhecimento-de-imagens/tree/main">Identificador de imagens</a><br>
+      <img src="https://github.com/ErikaMendes89/reconhecimento-de-imagens/blob/main/Captura%20de%20tela%202024-07-22%20230900.png" height=300 width=500><br>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 ##
