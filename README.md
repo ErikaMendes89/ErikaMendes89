@@ -166,5 +166,9 @@ class ErikaMendes:
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=venom&color=0:0a1628,50:1a0533,100:0d0221&height=80&section=footer&animation=twinkling)
+<div align="center">
+
+[![Pac-Man](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=FF69B4&center=true&width=600&lines=GAME+OVER%3F+NAO...+CONTINUA+CODING+%3AD)](https://github.com/ErikaMendes89)
+
+</div>
 
