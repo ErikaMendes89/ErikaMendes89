@@ -34,7 +34,7 @@ class ErikaMendes:
             "👩‍🏫 Professora de Programação para Crianças"
         ]
         self.atualmente  = [
-            "Cursando Jogos Digitais",
+            "Formada em Jogos Digitais",
             "Experiencia Front-End com React, Remix",
             "Experiencia back-end com Django, FastAPI e Flask",
             "Construindo APIs robustas e escaláveis",
