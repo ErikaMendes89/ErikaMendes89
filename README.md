@@ -1,130 +1,192 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:1a0011,50:2d0a3e,100:1a0028&height=200&section=header&text=Erika%20Mendes&fontSize=70&fontColor=ff69b4&fontAlignY=55&desc=Game%20Dev%20%7C%20Full%20Stack%20%7C%20Web%20Dev&descAlignY=75&descSize=18&descColor=da70d6&animation=twinkling&stroke=ff69b4&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=venom\&color=0:1a0011,50:2d0a3e,100:1a0028\&height=200\&section=header\&text=Erika%20Mendes\&fontSize=70\&fontColor=ff69b4\&fontAlignY=55\&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Cloud%20%7C%20Generative%20AI\&descAlignY=75\&descSize=18\&descColor=da70d6\&animation=twinkling\&stroke=ff69b4\&strokeWidth=2)
 
 </div>
-
----
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  > SISTEMA INICIALIZADO...                               ║
-║  > CARREGANDO PERFIL: erika_mendes.exe                   ║
-║  > MODO: FULL STACK ACTIVATED ✓                          ║
-║  > STATUS: ONLINE ✓                                      ║
-╚══════════════════════════════════════════════════════════╝
+```text
+╔══════════════════════════════════════════════════════════════╗
+║  > SYSTEM INITIALIZED                                       ║
+║  > PROFILE: software_engineer                               ║
+║  > FOCUS: BACKEND • CLOUD • GENERATIVE AI                  ║
+║  > STATUS: BUILDING & LEARNING                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
----
-
-## ⚡ `whoami`
+## `whoami`
 
 ```python
 class ErikaMendes:
     def __init__(self):
-        self.nome        = "Erika Mendes"
-        self.localização = "Brasil 🇧🇷"
-        self.roles       = [
-            "💻 Desenvolvedora Web Full Stack",
-            "👩‍💻 Estagiária de desenvolvimento de software",
-            "👩‍🏫 Professora de Programação para Crianças"
-        ]
-        self.atualmente  = [
-            "Formada em Jogos Digitais",
-            "Experiencia Front-End com React, Remix",
-            "Experiencia back-end com Django, FastAPI e Flask",
-            "Construindo APIs robustas e escaláveis",
-            "Criando experiências web que impactam pessoas",
-            "Inspirando a próxima geração de devs 🚀"
-        ]
-        self.superpoder  = "Transformar café ☕ em código 💻"
+        self.role = "Software Engineer"
+        self.location = "Brazil 🇧🇷"
 
-    def missão(self):
-        return "Arte + Design + Código = Magia Digital ✨"
+        self.focus = [
+            "Backend Engineering",
+            "REST APIs & Integrations",
+            "Cloud Applications",
+            "Generative AI"
+        ]
+
+        self.stack = {
+            "backend": ["Python", "Django", "FastAPI", "Flask"],
+            "frontend": ["React", "TypeScript", "JavaScript"],
+            "data": ["MySQL", "PostgreSQL"],
+            "cloud": ["Google Cloud Platform", "Docker"],
+            "ai": ["MCP", "RAG", "LLM Applications"]
+        }
+
+        self.currently_studying = [
+            "Software Architecture",
+            "Distributed Systems",
+            "Generative AI",
+            "AI Agents"
+        ]
+
+    def build(self):
+        return "Reliable software. Clean architecture. Continuous learning."
+```
+
+Sou desenvolvedora de software com foco em **backend, APIs, integrações e aplicações cloud**, trabalhando principalmente com **Python, Django, FastAPI, React, TypeScript, MySQL, Docker e Google Cloud Platform**.
+
+Atualmente também venho explorando a interseção entre **Engenharia de Software e Inteligência Artificial**, construindo projetos práticos envolvendo **Model Context Protocol (MCP), RAG, LLMs e agentes de IA**.
+
+Tenho formação em **Jogos Digitais** e curso pós-graduação em **Engenharia de Software com IA Aplicada**.
+
+---
+
+## `core_stack.load()`
+
+<div align="center">
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-0d0221?style=for-the-badge\&logo=python\&logoColor=00f5ff)
+![Django](https://img.shields.io/badge/Django-0d0221?style=for-the-badge\&logo=django\&logoColor=00f5ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0221?style=for-the-badge\&logo=fastapi\&logoColor=00f5ff)
+![Flask](https://img.shields.io/badge/Flask-0d0221?style=for-the-badge\&logo=flask\&logoColor=00f5ff)
+![REST API](https://img.shields.io/badge/REST_APIs-0d0221?style=for-the-badge\&logo=fastapi\&logoColor=bf5fff)
+
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0221?style=for-the-badge\&logo=typescript\&logoColor=00f5ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0221?style=for-the-badge\&logo=javascript\&logoColor=00f5ff)
+![React](https://img.shields.io/badge/React-0d0221?style=for-the-badge\&logo=react\&logoColor=00f5ff)
+
+### Data
+
+![MySQL](https://img.shields.io/badge/MySQL-0d0221?style=for-the-badge\&logo=mysql\&logoColor=00f5ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0221?style=for-the-badge\&logo=postgresql\&logoColor=bf5fff)
+
+### Cloud & Engineering
+
+![GCP](https://img.shields.io/badge/Google_Cloud-0d0221?style=for-the-badge\&logo=googlecloud\&logoColor=00f5ff)
+![Docker](https://img.shields.io/badge/Docker-0d0221?style=for-the-badge\&logo=docker\&logoColor=00f5ff)
+![Git](https://img.shields.io/badge/Git-0d0221?style=for-the-badge\&logo=git\&logoColor=00f5ff)
+![GitHub](https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge\&logo=github\&logoColor=bf5fff)
+
+### Generative AI
+
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-0d0221?style=for-the-badge\&logo=anthropic\&logoColor=39ff14)
+![RAG](https://img.shields.io/badge/RAG-0d0221?style=for-the-badge\&logo=databricks\&logoColor=39ff14)
+![AI Agents](https://img.shields.io/badge/AI_Agents-0d0221?style=for-the-badge\&logo=openai\&logoColor=39ff14)
+![LLM](https://img.shields.io/badge/LLM_Applications-0d0221?style=for-the-badge\&logo=openai\&logoColor=39ff14)
+
+</div>
+
+---
+
+## `engineering.focus()`
+
+```text
+Backend Engineering    ████████████████████
+REST APIs              ████████████████████
+Cloud                  ██████████████████░░
+Software Architecture  ████████████████░░░░
+Generative AI          ███████████████░░░░░
+```
+
+> Os indicadores representam minhas áreas de foco e estudo, não níveis absolutos de proficiência.
+
+---
+
+## `featured_projects()`
+
+### Developer Toolbox MCP
+
+Servidor baseado no **Model Context Protocol (MCP)** criado como projeto prático de estudo sobre integração entre ferramentas de desenvolvimento e agentes de IA.
+
+**Explorando:** Python · MCP · Tool Design · Software Architecture · Testing · Generative AI
+
+[→ Ver repositório](https://github.com/ErikaMendes89/developer-toolbox-mcp)
+
+---
+
+### Kallima — RAG Knowledge System
+
+Projeto experimental voltado à construção de aplicações baseadas em **Retrieval-Augmented Generation**, explorando retrieval, embeddings, bancos vetoriais e integração com LLMs.
+
+**Explorando:** Python · RAG · Embeddings · Vector Search · LLMs
+
+> 🚧 Em desenvolvimento
+
+---
+
+### Backend Engineering Lab
+
+Projeto dedicado ao estudo prático de **arquitetura backend e sistemas distribuídos**, incluindo APIs, processamento assíncrono, persistência, observabilidade, testes e estratégias de resiliência.
+
+**Objetivo:** transformar conceitos de engenharia de software em implementações reproduzíveis e documentadas.
+
+> 🧪 Próximo projeto
+
+---
+
+## `currently_learning()`
+
+```yaml
+software_engineering:
+  - Software Architecture
+  - Clean Architecture
+  - Distributed Systems
+  - Testing & Observability
+
+generative_ai:
+  - Model Context Protocol
+  - Retrieval-Augmented Generation
+  - AI Agents
+  - LLM Applications
+
+infrastructure:
+  - Cloud Architecture
+  - Containers
+  - CI/CD
 ```
 
 ---
 
-## 🛠️ `tech_stack.load()`
+## `background()`
 
-<div align="center">
+🎓 **Pós-graduação:** Engenharia de Software com IA Aplicada
+🎮 **Graduação:** Tecnologia em Jogos Digitais
+👩‍🏫 **Experiência anterior:** ensino de programação para crianças e adolescentes
 
-### ⚔️ Linguagens
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0221?style=for-the-badge&logo=javascript&logoColor=00f5ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0221?style=for-the-badge&logo=typescript&logoColor=00f5ff)
-![Python](https://img.shields.io/badge/Python-0d0221?style=for-the-badge&logo=python&logoColor=00f5ff)
-![Java](https://img.shields.io/badge/Java-0d0221?style=for-the-badge&logo=openjdk&logoColor=00f5ff)
-![C#](https://img.shields.io/badge/C%23-0d0221?style=for-the-badge&logo=csharp&logoColor=bf5fff)
-
-### 🌐 Front-end
-
-![HTML5](https://img.shields.io/badge/HTML5-0d0221?style=for-the-badge&logo=html5&logoColor=00f5ff)
-![CSS3](https://img.shields.io/badge/CSS3-0d0221?style=for-the-badge&logo=css3&logoColor=00f5ff)
-![React](https://img.shields.io/badge/React-0d0221?style=for-the-badge&logo=react&logoColor=00f5ff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d0221?style=for-the-badge&logo=bootstrap&logoColor=00f5ff)
-![p5.js](https://img.shields.io/badge/p5.js-0d0221?style=for-the-badge&logo=p5dotjs&logoColor=bf5fff)
-![Remix](https://img.shields.io/badge/Remix-0d0221?style=for-the-badge&logo=remix&logoColor=00f5ff)
-![Styled Components](https://img.shields.io/badge/Styled--Components-0d0221?style=for-the-badge&logo=styled-components&logoColor=bf5fff)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d0221?style=for-the-badge&logo=tailwindcss&logoColor=00f5ff)
-![Material UI](https://img.shields.io/badge/Material--UI-0d0221?style=for-the-badge&logo=mui&logoColor=bf5fff)
-
-### ⚙️ Back-end & APIs
-
-![Node.js](https://img.shields.io/badge/Node.js-0d0221?style=for-the-badge&logo=node.js&logoColor=00f5ff)
-![Django](https://img.shields.io/badge/Django-0d0221?style=for-the-badge&logo=django&logoColor=00f5ff)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0221?style=for-the-badge&logo=fastapi&logoColor=00f5ff)
-![Flask](https://img.shields.io/badge/Flask-0d0221?style=for-the-badge&logo=flask&logoColor=00f5ff)
-
-### 🗄️ Banco de Dados
-
-![MySQL](https://img.shields.io/badge/MySQL-0d0221?style=for-the-badge&logo=mysql&logoColor=00f5ff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0221?style=for-the-badge&logo=mongodb&logoColor=00f5ff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0221?style=for-the-badge&logo=postgresql&logoColor=bf5fff)
-
-### 🔧 DevOps & Ferramentas
-
-![Git](https://img.shields.io/badge/Git-0d0221?style=for-the-badge&logo=git&logoColor=00f5ff)
-![Docker](https://img.shields.io/badge/Docker-0d0221?style=for-the-badge&logo=docker&logoColor=00f5ff)
-![GitHub](https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=bf5fff)
-
-### 🎮 Game Dev
-
-![Unity](https://img.shields.io/badge/Unity-0d0221?style=for-the-badge&logo=unity&logoColor=bf5fff)
-
-### 🚀 Aprendendo Agora
-
-![Vue.js](https://img.shields.io/badge/Vue.js-0d0221?style=for-the-badge&logo=vue.js&logoColor=39ff14)
-![Redis](https://img.shields.io/badge/Redis-0d0221?style=for-the-badge&logo=redis&logoColor=39ff14)
-
-### 📖 Estudando & Explorando
-
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0d0221?style=for-the-badge&logo=blueprint&logoColor=39ff14)
-![AI Agents](https://img.shields.io/badge/Agentes%20de%20IA-0d0221?style=for-the-badge&logo=openai&logoColor=39ff14)
-![Design System](https://img.shields.io/badge/Design%20System-0d0221?style=for-the-badge&logo=storybook&logoColor=39ff14)
-
-</div>
+Minha formação em desenvolvimento de jogos continua sendo parte importante da minha trajetória e influencia meu interesse por sistemas interativos, criatividade e resolução de problemas.
 
 ---
 
-## 🎮 `projetos.display()`
-
 <div align="center">
 
-| 🕹️ Projeto | 🔗 Link | 📝 Descrição |
-|---|---|---|
-| 🏠 Website de Hospedagem | [Ver projeto](https://github.com/ErikaMendes89/projeto-Website-hospedagem) | Site completo de hospedagem |
-| 🧠 Jogo da Memória | [Ver projeto](https://github.com/ErikaMendes89/jogo-simples-da-memoria) | Jogo interativo em JavaScript |
-| ☕ Site Cafeteria | [Ver projeto](https://github.com/ErikaMendes89/Projeto-cafeteria) | UI/UX para cafeteria |
-| 🎬 Recomendação de Filmes | [Ver projeto](https://github.com/ErikaMendes89/projeto-recomendacao-de-filmes) | Recomendação com Python |
-| 👻 Ghost Runner | [Ver projeto](https://github.com/ErikaMendes89/jogo-Ghost-Runner) | Jogo desenvolvido com p5.js |
-| 🤖 Identificador de Imagens | [Ver projeto](https://github.com/ErikaMendes89/reconhecimento-de-imagens) | IA + reconhecimento visual |
+### `while(alive) { learn(); build(); improve(); }`
+
+**Software Engineering • Backend • Cloud • Generative AI**
 
 </div>
+
 
 ---
 
