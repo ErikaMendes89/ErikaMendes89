@@ -6,9 +6,9 @@
 
 ## `whoami`
 
-Sou Erika Mendes, desenvolvedora de software com foco em **backend, APIs, integrações e aplicações em nuvem**. Também construo projetos para estudar como aplicar IA a problemas de engenharia de software.
+Sou Erika Mendes, desenvolvedora de software com atuação em **backend e full stack**. Trabalho com APIs, integrações e aplicações em nuvem, principalmente com Python, Django, FastAPI e React. Nos meus projetos de **IA aplicada**, exploro como agentes usam ferramentas e como gerar respostas com fontes para revisão humana.
 
-Tenho formação em Jogos Digitais e experiência ensinando programação para crianças e adolescentes. Compartilho por aqui o código, as decisões de projeto e exemplos para você explorar.
+Sou formada em **Tecnologia em Jogos Digitais**, curso pós-graduação em **Engenharia de Software com IA Aplicada** e já ensinei programação para crianças e adolescentes. Aqui, compartilho exemplos para você rodar, caminhos para ler o código e as decisões por trás dos projetos.
 
 ## Por onde começar
 
